@@ -15,14 +15,10 @@ Navigate to the project directory:
 bash
 Copy code
 cd gradepredictor
-Install dependencies:
-Copy code
-pip install -r requirements.txt
 Usage
 Run the application:
 Copy code
-python gradepredictor.py
-Follow the on-screen instructions to input your past grades and other relevant information.
+python main.py
 The program will generate a prediction for your future grades based on the provided data.
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:

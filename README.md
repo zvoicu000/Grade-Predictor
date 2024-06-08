@@ -1,4 +1,4 @@
-Grade Predictor
+Grade Predictor.md
 Description
 The Grade Predictor is a project designed to help students predict their future grades based on past performance and various factors.
 

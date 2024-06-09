@@ -32,9 +32,6 @@ Create a new Pull Request.
 Credits
 This project was created by [zvoicu000].
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Support
 If you have any questions or issues, please feel free to contact [zvoicu000] at [bogdanvoicu115@gmail.com].
 
